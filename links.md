@@ -1,7 +1,7 @@
 https://css-tricks.com/modular-future-web-components/
 
 
-https://www.webcomponents.org/community/articles/introduction-to-custom-elements
+[introduction to custom elements](https://www.webcomponents.org/community/articles/introduction-to-custom-elements)
 
 
 https://www.webcomponents.org/community/articles/introduction-to-shadow-dom
